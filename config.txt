@@ -1,6 +1,6 @@
-token=NTI3Mzc5OTM3NTQwMzA4OTkz.DwS4tQ.hRRGv4uJETPXBGP9uCaispXFljg
+token=NTYzNDU0MTExNzQwMzI5OTg1.XMNiQw.EwNLhsL34tGO4mlgTVPszYWUNs0
 owner=433198762706599936
-prefix=1
-game= 7akawy SERVER
+prefix=3
+game=Type 3 Play
 stayinchannel=true
 songinstatus=true 
